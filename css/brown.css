@@ -21,11 +21,11 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 /*Download button*/
 .button1{
-        background-color: black;
+        background-color: #26060a;
         border:solid 1px black;
         width:150px;
         height:40px;
-        color:aqua;
+        color:white;
         border-radius:20px ;
     }
 :focus {
